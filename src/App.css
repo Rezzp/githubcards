@@ -1,0 +1,72 @@
+.cards {
+  width:50%;
+  border:1px solid #ccc;
+  text-align: center;
+  margin:20px auto;
+}
+
+.formtab{
+  background-color: rgb(240, 245, 245);
+  width:70%;
+  border:1px solid black;
+  margin: 20px auto;
+  padding:30px;
+}
+
+.inputs{
+  margin:10px;
+  vertical-align: middle;
+  width:60%;
+  height:25px;
+}
+
+.adduser{
+  margin:10px;
+  vertical-align: middle;
+  width:30%;
+  height:30px;
+  background-color: rgb(19, 79, 209);
+  color:rgb(233, 227, 227);
+}
+
+.adduser:hover{
+
+  background-color: rgb(8, 44, 122);
+}
+
+
+.profilecard {
+  margin:10px 10px;
+  width:45%;
+  padding:5px;
+  display: inline-flex;
+  border :1px solid #eee;
+  box-shadow: 0px 2px 2px #ccc;
+}
+
+img {
+  width:85px;
+  height:85px;
+  padding:5px;
+  margin:0px;
+  vertical-align: middle;
+  float:left;
+  
+}
+
+.info{
+  vertical-align: middle;  
+  padding:5px;
+  margin:3px;  
+}
+
+.name, .company{
+   padding:0px;
+   margin:0px;
+   text-align: left;
+}
+
+.name{
+  font-weight: bold;
+  font-size:120%;
+}
